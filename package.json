@@ -1,0 +1,17 @@
+{
+  "name": "my-js-package",
+  "version": "1.0.0",
+  "description": "A JavaScript package that provides main functionality.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint .",
+    "postinstall": "echo 'installed'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
