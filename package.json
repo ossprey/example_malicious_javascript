@@ -1,5 +1,5 @@
 {
-  "name": "my-js-package",
+  "name": "mathlib",
   "version": "1.0.0",
   "description": "A JavaScript package that provides main functionality.",
   "main": "src/index.js",
